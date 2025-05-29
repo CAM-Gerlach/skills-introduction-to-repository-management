@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @CAM-Gerlach
+/src/backend/database.py      @CAM-Gerlach
+/src/backend/routers/auth.py  @CAM-Gerlach
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @CAM-Gerlach
